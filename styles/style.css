@@ -41,7 +41,7 @@ body{
     position: relative;
     height: 150px;
     width: 150px;
-    border-radius: 50%;
+    /* border-radius: 50%; */
     background-color: #D51C5C;
     padding: 3px;
     margin-bottom: 10px;
@@ -50,7 +50,7 @@ body{
     height: 100%;
     width: 100%;
     object-fit: cover;
-    border-radius: 50%;
+    /* border-radius: 50%; */
     border: 3px solid #fff;
 }
 .profile_card .text_data{
