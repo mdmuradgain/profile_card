@@ -106,6 +106,7 @@ body{
 }
 .buttons .button:hover{
     background-color: black;
+    transform: scale(1.1);
 }
 .profile_card .analytics{
     display: flex;
